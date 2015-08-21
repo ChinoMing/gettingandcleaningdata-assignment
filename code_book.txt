@@ -1,0 +1,9 @@
+This codebook extends the codebooks provided with the dataset.
+
+Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip Data description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+The summary data printout from this function:
+* activity - the description of the activity as listed in activity_labels.txt
+* subject - the subject id
+* activityid - the activity id
+* All the mean() and std() from the data provided.  Refer to features_info.txt for additional information.
